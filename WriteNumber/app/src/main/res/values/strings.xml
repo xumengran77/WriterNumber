@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WriteNumber</string>
+    <string name="back">返回</string>
+    <string name="aboutUs">关于我们</string>
+    <string name="QQ">QQ    463713831</string>
+    <string name="phone">电话    18556522016</string>
+    <string name="邮箱">邮箱    463713831@qq.com</string>
+    <string name="play">开始游戏</string>
+    <string name="game_name">写数字小游戏</string>
+</resources>
